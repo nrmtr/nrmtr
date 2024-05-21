@@ -7,7 +7,7 @@ Software Developer
 I'm learning to many programming language, now i interested in backend development and software dev
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [niramit-k@rmutp.ac.th](mailto:niramit-k@rmutp.ac.th)
+* ✉️  You can contact me at [nrmtrkc@gmail.com](mailto:nrmtrkc@gmail.com)
 * 🧠  I'm learning Node.js,express.js,python,c++
 
 ### Skills
