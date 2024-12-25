@@ -8,7 +8,7 @@ I'm learning to many programming language, now i interested in backend developme
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nrmtrkc@gmail.com](mailto:nrmtrkc@gmail.com)
-* 🧠  I'm learning Node.js,express.js,python,c++
+* 🧠  I'm learning GO,RUST,LUA,KOTLIN
 
 ### Skills
 
